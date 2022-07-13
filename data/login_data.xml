@@ -1,0 +1,18 @@
+<data>
+    <case>
+        <case_name>登陆成功</case_name>
+        <username>13800138006</username>
+        <password>123456</password>
+        <verify_code>8888</verify_code>
+        <msg>登陆成功</msg>
+        <status>1</status>
+    </case>
+    <case>
+        <case_name>密码错误</case_name>
+        <username>13800138006</username>
+        <password>1234567</password>
+        <verify_code>8888</verify_code>
+        <msg>密码错误!</msg>
+        <status>-2</status>
+    </case>
+</data>
